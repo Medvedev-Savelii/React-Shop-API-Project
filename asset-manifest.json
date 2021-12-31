@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Shop-API-Project/static/css/main.af4265a0.css",
+    "main.js": "/React-Shop-API-Project/static/js/main.d362e2d8.js",
+    "index.html": "/React-Shop-API-Project/index.html",
+    "main.af4265a0.css.map": "/React-Shop-API-Project/static/css/main.af4265a0.css.map",
+    "main.d362e2d8.js.map": "/React-Shop-API-Project/static/js/main.d362e2d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4265a0.css",
+    "static/js/main.d362e2d8.js"
+  ]
+}
